@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Aluno do Instituto Federal Catarinense<br>👯Focado em aprender e inovar com o mundo das tecnologias<br>
+🔭 Aluno do Instituto Federal Catarinense<br>👯Trabalhando atualmente em projetos pessoais<br>
 
 
 # 💻 Tech Stack:
